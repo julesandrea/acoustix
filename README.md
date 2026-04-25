@@ -1,3 +1,5 @@
+<img width="500" height="250" alt="Sound Monitoring Logo with Ear and Waveform" src="https://github.com/user-attachments/assets/cfc33550-3a46-4c92-adac-296a7554ecd4" />
+
 # AcoustiX — Simulateur Web Interactif
 
 > Livrable Proto 1 · UTT Filière Réseau & Télécom · Avril 2026
